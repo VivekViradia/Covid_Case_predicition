@@ -1,0 +1,10 @@
+
+Step-1: Activate env
+venv\Scripts\activate
+
+Step2: If package error Occurs:
+python manage.py migrate
+
+step3: cd covid_project
+
+step4: python manage.py runserver
