@@ -25,4 +25,4 @@ days.This model further can be used as a feature in website or in any mobile app
 ## Technology and Literature Review
 Machine Leaning
 Python
-JyputerNoteboo
+JyputerNotebook
